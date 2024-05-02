@@ -3,7 +3,7 @@
         "Amount": "1",
         "Unit": "USD"
     },
-    "BudgetName": "Example Tag Budget",
+    "BudgetName": "Example CLI example",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
@@ -29,3 +29,4 @@
     },
     "TimeUnit": "MONTHLY"
 }
+
